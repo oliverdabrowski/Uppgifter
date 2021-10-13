@@ -1,0 +1,29 @@
+body {
+	font-family: Verdana;
+	background-color: lightgray;
+
+}
+#hej {
+	font-size: 20px;
+
+}
+.cssbild {
+	width: 300px;
+	height: 200px;
+}
+
+*{
+	border: 2px black dotted;
+
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+/* Skapar en mouseover-eddekt*/
+
+a :hover{
+	text-decoration: underline;
+}

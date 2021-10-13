@@ -1,0 +1,33 @@
+body{
+	font-family: Verdana;
+	background-color: lightgrey;
+
+}
+
+table, tr, td, th{
+	border-collapse: collapse;
+	border: 2px solid black;
+	padding: 5px;
+	margin: 5px;
+
+}
+
+.radf{
+background-color: lightblue;
+}
+
+/* Storleken på stjärnorna */
+img{
+	width: 25px;
+	height: 25px;
+}
+.tabell{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 50rem;
+}
+#Mitten{
+	text-align: center;
+}
