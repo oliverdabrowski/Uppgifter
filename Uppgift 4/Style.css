@@ -1,0 +1,66 @@
+body{
+	font-family: Verdana;
+	background-color: lightgrey;
+	font-size: 20px;
+}
+
+.container{
+	border: 1px solid black;
+	width: 500px;
+	height: 500px;
+	background-color: purple;
+	margin: auto;
+}
+
+.header{
+	background-color: lightgreen;
+	height: 75px;
+	font-size: 40px;
+	padding-top: 10px;
+	padding-left: 10px;
+	color: purple;
+
+}
+
+.menu{
+	background-color: pink;
+	height: 25px;
+	font-size: 10px;
+	color: purple;
+	padding-left: 10px;
+
+}
+
+.body{
+	background-color: lightyellow;
+	height: 380px;
+	width: 300px;
+	font-size: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	float: left;
+	
+
+
+}
+.img{
+	width: 50px;
+	float: left;
+}
+
+.hoger{
+	float: right;
+	height: 250px;
+	width: 190px;
+	background-color: green;
+	text-align: center;
+}
+
+.storlek{
+	font-size: 20px;
+}
+
+.text{
+	font-size: 10px;
+
+}
