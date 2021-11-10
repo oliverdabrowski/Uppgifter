@@ -1,0 +1,12 @@
+.card-img-top {
+width: 100%;
+height: 30vw;
+object-fit: cover;
+}
+
+.rubrik{
+	border: solid black 4px;
+	background-color: blue;
+	color: white;
+
+}
