@@ -1,0 +1,27 @@
+.bg{
+	background-color: lightgray;
+	border: 2px solid black;
+}
+
+.img{
+	height: 250px;
+	width: 100%;
+	
+}
+
+.storlektext{
+	font-size: 30px;
+	text-align: center;
+}
+
+.fakta{
+	font-size: 20px;
+	text-align: center;
+}
+
+.rubrik{
+	font-size: 35px;
+	text-align: center;
+	border: black solid 4px;
+	background-color: lightgrey;
+}
